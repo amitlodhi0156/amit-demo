@@ -1,2 +1,3 @@
-# amit-demo
-this is my first repository
+# First-demo
+This is my first repository
+Author- amit lodhi
